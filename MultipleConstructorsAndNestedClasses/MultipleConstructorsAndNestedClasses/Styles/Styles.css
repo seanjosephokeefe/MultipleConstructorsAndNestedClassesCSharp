@@ -1,0 +1,112 @@
+﻿body
+{
+    background: #000000;
+    font-family: "Tahoma" , "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    padding: 0px;
+    color: #D2B48C;
+}
+
+a:link, a:visited
+{
+    color: White;
+    font-weight: bold;
+}
+
+a:hover
+{
+    color: White;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:active
+{
+    color: White;
+    font-weight: bold;
+}
+
+p
+{
+    font-size: 12px;
+}
+
+td
+{
+    padding: 10px 20px 5px 20px;
+    text-align: left;
+}
+
+th
+{
+    padding: 10px 20px 5px 20px;
+    text-align: left;
+}
+
+.TableContainer
+{
+    border: Silver 2px solid;
+    background-color: #2c2c2c;
+}
+
+
+h1, h2, h3, h4, h5, h6
+{
+    color: #fc7982;
+    font-weight: bold;
+}
+
+h1
+{
+    font-size: 24px;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+h3
+{
+    font-size: 18px;
+}
+
+h4
+{
+    font-size: 16px;
+}
+
+h5
+{
+    font-size: 14px;
+}
+
+h6
+{
+    font-size: 12px;
+}
+
+.Label
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.left
+{
+    text-align: left;
+}
